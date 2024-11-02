@@ -1,1 +1,1 @@
-# Pens_Ice_Time_Project
+In an effort to support my application for the Hockey R&D Fellowship, I've been working on this project to support an idea I have for improving secondary scoring. I believe that by employing an 11-7 lineup, the Penguins can get their top forwards more ice time (which they thrive with) while they provide a boost to the other forwards. This setup is regularly used by the Lightning with positive results.
